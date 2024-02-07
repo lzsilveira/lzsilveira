@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Luiz Silveira</h1>
 
-- 🔭 I’m currently working on **Pagar.me**
+- 🔭 I’m currently working on **Stone Co.**
 
 - 📫 How to reach me **luizjoe@gmail.com**
 
