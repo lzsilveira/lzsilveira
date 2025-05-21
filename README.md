@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently building scalable financial services at **Stone Co.**
-- 🧠 Passionate about ** software architecture **
+- 🧠 Passionate about **software architecture**
 - 🛠️ Currently working with **.NET**, **Node.js**, **PostgreSQL**, **Kafka**, and **RabbitMQ**
 - 📫 Reach me at **luizjoe@gmail.com**
 - ⚡ Fun fact: I once debugged a production issue using coffee and intuition ☕💡
